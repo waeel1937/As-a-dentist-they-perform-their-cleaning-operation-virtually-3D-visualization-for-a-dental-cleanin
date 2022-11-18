@@ -1,6 +1,6 @@
 # Visualize Your Dental Appointment: Create Dental Surgery With Different Options 
 
-![alt text](https://github.com/waeel1937/Viewdentistry/blob/main/954af802-3536-4bf1-8161-270b6b8107bd%20(1).jpg)" width="240" height="240">
+
 
 
 <img src="[https://github.com/waeel1937/Viewdentistry/blob/main/954af802-3536-4bf1-8161-270b6b8107bd%20(1).jpg]" width="240" height="240"> 

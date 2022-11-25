@@ -28,6 +28,9 @@ The Program is structured as follows:
 * Visual studio (Makefile with C#) 
 
 
-Literauture: 
 
+intern Structure build: 
+
+
+a dicom muster compare and build on the modell 
 https://www.knowthyself.ualberta.ca/ktvr-unity-demos/pdf-get-started-import-dicom-unity/

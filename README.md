@@ -26,3 +26,8 @@ The Program is structured as follows:
 * Unity 2021.1.0 - Unity 
 * MagicaVoxel
 * Visual studio (Makefile with C#) 
+
+
+Literauture: 
+
+https://www.knowthyself.ualberta.ca/ktvr-unity-demos/pdf-get-started-import-dicom-unity/

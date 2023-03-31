@@ -1,7 +1,4 @@
-# As a dentist, they perform their cleaning operation
-virtually: 3D visualization for a dental cleaning
-with Oculus Rift glasses and display of Dicom
-image data.
+# As a dentist, they perform their cleaning operation virtually: 3D visualization for a dental cleaning with Oculus Rift glasses and display of Dicom image data.
 
 
 

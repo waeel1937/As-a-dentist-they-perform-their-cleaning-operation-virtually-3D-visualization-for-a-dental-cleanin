@@ -1,4 +1,4 @@
-# As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin
+# As a dentist they perform their cleaning operation virtually 3D visualization for a dental cleanin.
 
 
 

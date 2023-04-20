@@ -3,7 +3,7 @@
 
 
 
-![Employee data](https://gitlab.com/waeel1937/Viewdentistry/-/blob/main/954af802-3536-4bf1-8161-270b6b8107bd%20(1).jpg)
+![Employee data](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/27736011-671e-4e00-bc47-b9f31bf229a8.jfif)
 
 
 

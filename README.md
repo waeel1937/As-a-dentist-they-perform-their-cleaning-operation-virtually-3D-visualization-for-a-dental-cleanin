@@ -21,7 +21,7 @@ There are two options, how to use it. Either you download zip-package or you can
 
 
 The Program is structured as follows: 
-![Employee data](https://gitlab.com/waeel1937/Viewdentistry/-/blob/main/Untitled%20Workspace.png)
+![Employee data](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/Workspace.png)
 
 ## Dependencies for Project generator
 

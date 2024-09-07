@@ -1,35 +1,41 @@
-# As a dentist they perform their cleaning operation virtually 3D visualization for a dental cleanin.
+# 3D Virtual Dental Cleaning Visualization Project
 
+![Project Image](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/27736011-671e-4e00-bc47-b9f31bf229a8.jfif)
 
+This repository contains the project submission of Erik Raschke and Wael Kheshfeh for the course "Augmented Reality/Virtual Reality WiSe 22/23". The project involves creating a 3D virtual environment for visualizing and simulating dental cleaning procedures.
 
+## Repository Structure
 
-![Employee data](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/27736011-671e-4e00-bc47-b9f31bf229a8.jfif)
+The project is organized as follows:
 
+- **`project/`**: Contains the core program files.
+  - **`tools/`**: Contains libraries required for the `ViewDentistry.sln` solution.
+  - **`*.txt` files**: Configuration files that help set up the working environment for the program.
+  
+  It is recommended to set this directory as your working directory when working with the project.
 
+## How to Use
 
- This repository contains the project submit of Erik Raschke and Wael Kheshfeh for the course "Augmented Reality/ Virtual Reality WiSe 22/23". The structure of the repository is as follows: The folder project contains the actual program. Inside of that there are subdirectories in tools with which a library is created for the Viewdentistry.sln  to be used. In the directory .txt files are located which can be used to work with the program. It is recommended to select this directory as the working directory. 
- 
- 
-## How to use it
+There are two options for using the project:
 
+1. **Download the Zip Package**: Download the repository as a ZIP file and extract it to your project directory.
+   
+2. **Clone the Repository**: Clone this repository directly to your project directory using Git. If you clone the repository, please note that the project uses relative paths for input and output.
 
-There are two options, how to use it. Either you download zip-package or you can clone this repository to your project directory. If you use the repository directly, you should be aware that the project generator uses relative paths, e.g. input and output paths. To familiarize yourself with the software, read our Project Paper. A good starting point is the "Background" guide. There are further sections describing the individual building blocks of the project generator.
+To get started, refer to the **Project Paper** for detailed information on how the project works. We recommend beginning with the **Background** guide to understand the system's architecture. Additional sections explain the individual components of the project generator.
 
+## Project Structure Overview
 
+![Workspace Image](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/Workspace.png)
 
-## Structure
+## Dependencies
 
+To run the project successfully, the following dependencies are required:
 
-The Program is structured as follows:
+- **Unity 2021.1.0**: Main development environment.
+- **MagicaVoxel**: Voxel modeling software.
+- **Visual Studio (with C#)**: Required to compile and run the solution (`ViewDentistry.sln`).
 
+## License
 
-
-
-![Employee data](https://github.com/waeel1937/As-a-dentist-they-perform-their-cleaning-operation-virtually-3D-visualization-for-a-dental-cleanin/blob/main/Workspace.png)
-
-## Dependencies for Project generator
-
-* Unity 2021.1.0 - Unity 
-* MagicaVoxel
-* Visual studio (Makefile with C#) 
-
+v1
